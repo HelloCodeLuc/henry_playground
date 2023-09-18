@@ -1,1 +1,3 @@
-CalendarApp
+CalendarApp/*
+!CalendarApp/App.tsx
+
